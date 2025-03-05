@@ -14,7 +14,7 @@ export function absoluteUrl(path: string) {
 export function constructMetadata({
   title = siteConfig.name,
   description = siteConfig.description,
-  image = absoluteUrl("/og"),
+  image = absoluteUrl("/open-graph-image.png"),
   ...props
 }: {
   title?: string;
@@ -43,7 +43,13 @@ export function constructMetadata({
         },
       ],
       type: "website",
-      locale: "en_US",
+      locale: "no_NO",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [image],
     },
     icons: "/favicon.ico",
     metadataBase: new URL(siteConfig.url),

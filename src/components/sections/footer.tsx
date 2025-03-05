@@ -24,7 +24,7 @@ const links = [
   },
   {
     title: "Om oss",
-    href: "#",
+    href: "/om-oss",
   },
 ];
 

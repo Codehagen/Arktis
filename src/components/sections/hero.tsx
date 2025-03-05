@@ -41,7 +41,7 @@ export function Hero() {
             </p>
 
             <Button asChild size="lg">
-              <Link href="#">
+              <Link href="/losninger">
                 <span className="btn-label">Utforsk mulighetene</span>
               </Link>
             </Button>

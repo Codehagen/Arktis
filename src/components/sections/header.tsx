@@ -8,7 +8,7 @@ import Link from "next/link";
 const menuItems = [
   { name: "Eiendoms AI", href: "/eiendoms-ai" },
   { name: "Løsninger", href: "/losninger" },
-  { name: "Priser", href: "#" },
+  // { name: "Priser", href: "#" },
   { name: "Om oss", href: "/om-oss" },
 ];
 
@@ -24,7 +24,7 @@ export const Header = () => {
           <div className="flex flex-wrap items-center justify-between gap-6 py-3 lg:gap-0 lg:py-4">
             <div className="flex w-full justify-between lg:w-auto">
               <Link
-                href="/examples/home/one"
+                href="/"
                 aria-label="home"
                 className="flex items-center space-x-2"
               >
@@ -58,13 +58,13 @@ export const Header = () => {
               </div>
 
               <div className="flex w-full flex-col space-y-3 sm:flex-row sm:gap-3 sm:space-y-0 md:w-fit lg:border-l lg:pl-6">
-                <Button asChild variant="outline" size="sm">
+                {/* <Button asChild variant="outline" size="sm">
                   <Link href="/preview/login/two">
                     <span>Logg inn</span>
                   </Link>
-                </Button>
+                </Button> */}
                 <Button asChild size="sm">
-                  <Link href="/preview/sign-up/two">
+                  <Link href="/kontakt">
                     <span>Kom i gang</span>
                   </Link>
                 </Button>
