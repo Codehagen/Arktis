@@ -3,12 +3,12 @@ import Link from "next/link";
 
 const links = [
   {
-    title: "Funksjoner",
-    href: "#",
+    title: "Eiendoms AI",
+    href: "/eiendoms-ai",
   },
   {
     title: "Løsninger",
-    href: "#",
+    href: "/losninger",
   },
   {
     title: "Kunder",
