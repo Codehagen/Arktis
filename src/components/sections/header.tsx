@@ -8,8 +8,8 @@ import Link from "next/link";
 const menuItems = [
   { name: "Funksjoner", href: "#" },
   { name: "Løsninger", href: "#" },
-  { name: "Priser", href: "/examples/pricing/one" },
-  { name: "Om oss", href: "/examples/about/one" },
+  { name: "Priser", href: "#" },
+  { name: "Om oss", href: "/om-oss" },
 ];
 
 export const Header = () => {
