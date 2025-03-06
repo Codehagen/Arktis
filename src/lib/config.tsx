@@ -32,7 +32,7 @@ export const siteConfig = {
   hero: {
     title: "Arktis AI",
     description:
-      "Arktisk AI hjelper virksomheter på tvers av bransjer med å automatisere prosesser, analysere data og frigjøre tid til verdiskapende arbeid gjennom skreddersydde AI-løsninger tilpasset norske forhold.",
+      "Arktis AI hjelper virksomheter på tvers av bransjer med å automatisere prosesser, analysere data og frigjøre tid til verdiskapende arbeid gjennom skreddersydde AI-løsninger tilpasset norske forhold.",
     cta: "Utforsk mulighetene",
     ctaDescription: "Tilpasset for norske virksomheter",
   },

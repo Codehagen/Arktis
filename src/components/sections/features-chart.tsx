@@ -11,7 +11,7 @@ export default function FeaturesChart() {
         <div className="relative">
           <div className="relative z-10 space-y-4 md:w-1/2">
             <p className="text-body">
-              Arktisk AI utvikler seg kontinuerlig og forbedres hver dag.{" "}
+              Arktis AI utvikler seg kontinuerlig og forbedres hver dag.{" "}
               <span className="text-title font-medium">
                 Vi støtter komplette forretningsprosesser
               </span>{" "}

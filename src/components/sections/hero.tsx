@@ -34,7 +34,7 @@ export function Hero() {
               AI-løsninger som effektiviserer norske virksomheter
             </h1>
             <p className="mx-auto my-8 max-w-2xl text-xl">
-              Arktisk AI hjelper virksomheter på tvers av bransjer med å
+              Arktis AI hjelper virksomheter på tvers av bransjer med å
               automatisere prosesser, analysere data og frigjøre tid til
               verdiskapende arbeid gjennom skreddersydde AI-løsninger tilpasset
               norske forhold.
@@ -49,7 +49,7 @@ export function Hero() {
         </div>
       </section>
 
-      <section className="bg-background relative z-10 py-16">
+      {/* <section className="bg-background relative z-10 py-16">
         <div className="m-auto max-w-5xl px-6">
           <h2 className="text-center text-lg font-medium">
             Dine favoritt selskaper er våre partnere
@@ -134,7 +134,7 @@ export function Hero() {
             />
           </div>
         </div>
-      </section>
+      </section> */}
     </>
   );
 }

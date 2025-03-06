@@ -5,7 +5,7 @@ export function Testimonial() {
     <section className="py-16 md:py-32">
       <div className="mx-auto max-w-5xl space-y-8 px-6 md:space-y-16 lg:px-0">
         <h2 className="relative z-10 max-w-xl text-4xl font-medium lg:text-5xl">
-          Arktisk AI frigjør verdifull tid for virksomheter
+          Arktis AI frigjør verdifull tid for virksomheter
         </h2>
         <div className="grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24">
           <div className="relative mb-6 sm:mb-0">
@@ -29,7 +29,7 @@ export function Testimonial() {
 
           <div className="relative space-y-4">
             <p className="text-muted-foreground">
-              Arktisk AI utvikler seg til å bli mer enn bare teknologi.{" "}
+              Arktis AI utvikler seg til å bli mer enn bare teknologi.{" "}
               <span className="text-accent-foreground font-bold">
                 Vi støtter et helt økosystem
               </span>{" "}
@@ -44,7 +44,7 @@ export function Testimonial() {
             <div className="pt-6">
               <blockquote className="border-l-4 pl-4">
                 <p>
-                  Å implementere Arktisk AI i våre prosesser har vært
+                  Å implementere Arktis AI i våre prosesser har vært
                   transformerende. Den betydelige tidsbesparelsen har gitt oss
                   mulighet til å fokusere på de mest verdiskapende aktivitetene.
                   Kvaliteten på vårt arbeid har samtidig økt markant.

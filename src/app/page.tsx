@@ -21,9 +21,9 @@ export default function Home() {
       <FeaturesList />
       <Stats />
       <Testimonial />
-      <FeaturedTestimonial />
+      {/* <FeaturedTestimonial /> */}
       <FeaturesChart />
-      <TestimonialsGrid />
+      {/* <TestimonialsGrid /> */}
       <CTA />
       {/* <Blog /> */}
       <Footer />

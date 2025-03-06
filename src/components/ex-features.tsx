@@ -6,7 +6,7 @@ export function ExampleFeatures() {
       <div className="mx-auto max-w-5xl space-y-12 px-6 lg:px-0">
         <div className="relative z-10 grid items-center gap-4 md:grid-cols-2 md:gap-12">
           <h2 className="text-4xl font-semibold">
-            Arktisk AI transformerer virksomheter med intelligente løsninger
+            Arktis AI transformerer virksomheter med intelligente løsninger
           </h2>
           <p className="max-w-sm sm:ml-auto">
             Gi din virksomhet kraft til å fokusere på verdiskapende arbeid, mens

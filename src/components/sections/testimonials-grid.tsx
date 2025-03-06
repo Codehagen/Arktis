@@ -10,7 +10,7 @@ export function TestimonialsGrid() {
             Verdsatt av virksomheter over hele Norge
           </h2>
           <p className="text-balance">
-            Arktisk AI er mer enn bare teknologi. Vi bygger verktøy og tjenester
+            Arktis AI er mer enn bare teknologi. Vi bygger verktøy og tjenester
             som hjelper bedrifter i ulike bransjer med å bli mer effektive,
             innovative og kundefokuserte.
           </p>
@@ -30,11 +30,11 @@ export function TestimonialsGrid() {
             <CardContent>
               <blockquote className="grid h-full grid-rows-[1fr_auto] gap-6">
                 <p className="text-xl font-medium">
-                  Arktisk AI har transformert måten vi behandler og analyserer
+                  Arktis AI har transformert måten vi behandler og analyserer
                   data på. Deres omfattende AI-løsninger har betydelig
                   akselerert våre beslutningsprosesser. Fleksibiliteten til å
                   tilpasse hvert aspekt gir oss mulighet til å møte våre unike
-                  utfordringer. Arktisk AI har virkelig revolusjonert vår
+                  utfordringer. Arktis AI har virkelig revolusjonert vår
                   tilnærming til dataanalyse.
                 </p>
 
@@ -64,7 +64,7 @@ export function TestimonialsGrid() {
             <CardContent className="h-full pt-6">
               <blockquote className="grid h-full grid-rows-[1fr_auto] gap-6">
                 <p className="text-xl font-medium">
-                  Arktisk AI er virkelig ekstraordinært og svært praktisk. En
+                  Arktis AI er virkelig ekstraordinært og svært praktisk. En
                   ekte gullgruve for moderne bedrifter som ønsker å utnytte
                   kraften i kunstig intelligens på en enkel måte.
                 </p>
@@ -124,7 +124,7 @@ export function TestimonialsGrid() {
             <CardContent className="h-full pt-6">
               <blockquote className="grid h-full grid-rows-[1fr_auto] gap-6">
                 <p>
-                  Vi har frigjort flere timer hver uke ved å bruke Arktisk AI.
+                  Vi har frigjort flere timer hver uke ved å bruke Arktis AI.
                   Det lar våre ansatte fokusere på kreativt og strategisk arbeid
                   istedenfor repetitive oppgaver.
                 </p>

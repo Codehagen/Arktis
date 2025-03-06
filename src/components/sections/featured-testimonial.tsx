@@ -5,7 +5,7 @@ export function FeaturedTestimonial() {
         <div className="mx-auto max-w-2xl">
           <blockquote>
             <p className="text-lg font-semibold sm:text-xl md:text-3xl">
-              Å implementere Arktisk AI i vår virksomhet har forvandlet måten vi
+              Å implementere Arktis AI i vår virksomhet har forvandlet måten vi
               jobber på. Den intuitive teknologien har gitt oss muligheten til å
               redusere manuelle prosesser drastisk, samtidig som kvaliteten på
               arbeidet vårt har blitt betydelig bedre. Dette er fremtiden for

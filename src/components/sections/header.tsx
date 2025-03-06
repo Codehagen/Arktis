@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
 const menuItems = [
-  { name: "Eiendoms AI", href: "/eiendoms-ai" },
+  { name: "Eiendom AI", href: "/eiendom-ai" },
   { name: "Løsninger", href: "/losninger" },
   // { name: "Priser", href: "#" },
   { name: "Om oss", href: "/om-oss" },

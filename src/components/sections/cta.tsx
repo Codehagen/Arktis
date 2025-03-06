@@ -10,7 +10,7 @@ export function CTA() {
             Transformer din virksomhet med AI
           </h2>
           <p className="mt-4">
-            Ta kontakt for en uforpliktende demonstrasjon av hvordan Arktisk AI
+            Ta kontakt for en uforpliktende demonstrasjon av hvordan Arktis AI
             kan skape verdi for din virksomhet, uansett bransje.
           </p>
 
