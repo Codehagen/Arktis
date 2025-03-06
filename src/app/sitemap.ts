@@ -13,7 +13,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "/losninger",
     "/om-oss",
     "/kontakt",
-    "/blog",
+    // "/blog",
   ];
 
   // Map routes to sitemap entries

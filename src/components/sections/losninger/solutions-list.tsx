@@ -147,7 +147,8 @@ export function SolutionsList() {
               <div className="mt-6 pt-4 border-t">
                 <Button variant="link" className="px-0" asChild>
                   <Link
-                    href={`/losninger/${solution.id}`}
+                    // href={`/losninger/${solution.id}`}
+                    href="#"
                     className="group flex items-center gap-1"
                   >
                     <span>Lær mer</span>

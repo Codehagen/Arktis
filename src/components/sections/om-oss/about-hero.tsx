@@ -128,7 +128,7 @@ export function AboutHero() {
               </Button>
 
               <Button asChild size="lg" variant="outline">
-                <Link href="/demo">
+                <Link href="/kontakt">
                   <span>Book Demo</span>
                 </Link>
               </Button>

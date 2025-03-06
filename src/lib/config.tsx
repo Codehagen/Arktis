@@ -11,10 +11,11 @@ import {
 export const BLUR_FADE_DELAY = 0.15;
 
 export const siteConfig = {
-  name: "Arktis AI",
-  description: "AI-løsninger som effektiviserer norske virksomheter.",
+  name: "Arktis AI | AI-løsninger for norske virksomheter",
+  description:
+    "AI-løsninger som effektiviserer norske virksomheter. Automatisere prosesser, analysere data og frigjøre tid gjennom skreddersydde AI-løsninger",
   cta: "Utforsk mulighetene",
-  url: process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000",
+  url: process.env.NEXT_PUBLIC_APP_URL || "https://arktis.ai",
   keywords: [
     "AI-løsninger",
     "Norske virksomheter",
