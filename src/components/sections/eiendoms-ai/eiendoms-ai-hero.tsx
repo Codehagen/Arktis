@@ -155,7 +155,7 @@ export function EiendomsAIHero() {
                     15-30 minutter
                   </h3>
                   <p className="text-center text-muted-foreground">
-                    Prosper AI kan redusere tiden for et fullstendig
+                    Eiendom AI kan redusere tiden for et fullstendig
                     boligprospekt helt ned til 15-30 minutter
                   </p>
                 </div>
