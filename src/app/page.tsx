@@ -19,8 +19,8 @@ export default function Home() {
       <Hero />
       <ExampleFeatures />
       <FeaturesList />
-      <Stats />
-      <Testimonial />
+      {/* <Stats /> */}
+      {/* <Testimonial /> */}
       {/* <FeaturedTestimonial /> */}
       <FeaturesChart />
       {/* <TestimonialsGrid /> */}

@@ -106,7 +106,7 @@ export function AboutHero() {
             </div>
           </div>
 
-          <TeamSection />
+          {/* <TeamSection /> */}
         </div>
       </section>
 
