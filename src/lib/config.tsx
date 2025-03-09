@@ -21,6 +21,7 @@ export const siteConfig = {
     "Norske virksomheter",
     "Prosessautomatisering",
     "Dataanalyse",
+    "Eiendom AI",
   ],
   links: {
     email: "kontakt@arktis.ai",
